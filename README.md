@@ -13,4 +13,15 @@
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day004_HW.ipynb">Day004 HW</a>
 ##### D5：實作 Day：API 資料串接 - 基本 API + JSON
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day005_HW.ipynb">Day005 HW</a>
-
+##### D6：實作 Day：API 資料串接 - Headers
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day006_HW.ipynb">Day006 HW</a>
+##### D7：HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day007_HW.ipynb">Day007 HW</a>
+##### D8：靜態網頁的資料爬蟲策略
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day008_HW.ipynb">Day008 HW</a>
+##### D9：圖片下載
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day009_HW.ipynb">Day009 HW</a>
+##### D10：PyQuery/grab
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day010_HW.ipynb">Day010 HW</a>
+##### D11：Regular expression
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day011_HW.ipynb">Day011 HW</a>
