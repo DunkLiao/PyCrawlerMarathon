@@ -29,3 +29,5 @@
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day012_HW.ipynb">Day012 HW</a>
 ##### D13：實作 Day：PTT(批踢踢)網路爬蟲實作練習
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day013_HW.ipynb">Day013 HW</a>
+##### D14：實作 Day：Yahoo! 電影網頁爬蟲實作練習
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day014_HW.ipynb">Day014 HW</a>
