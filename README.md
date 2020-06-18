@@ -25,3 +25,7 @@
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day010_HW.ipynb">Day010 HW</a>
 ##### D11：Regular expression
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day011_HW.ipynb">Day011 HW</a>
+##### D12：實作 Day：ETTODAY 靜態爬蟲實作練習
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day012_HW.ipynb">Day012 HW</a>
+##### D13：實作 Day：PTT(批踢踢)網路爬蟲實作練習
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day013_HW.ipynb">Day013 HW</a>
