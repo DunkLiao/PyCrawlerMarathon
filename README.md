@@ -31,3 +31,9 @@
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day013_HW.ipynb">Day013 HW</a>
 ##### D14：實作 Day：Yahoo! 電影網頁爬蟲實作練習
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day014_HW.ipynb">Day014 HW</a>
+##### D15：實作 Day：金融資訊網頁爬蟲實作練習
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day015_HW.ipynb">Day015 HW</a>
+##### D16：實作 Day：Wiki的爬蟲實作練習
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day016_HW.ipynb">Day016 HW</a>
+##### D17：HTTP 動態網頁架構說明與非同步取得資料
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day017_HW.ipynb">Day017 HW</a>
