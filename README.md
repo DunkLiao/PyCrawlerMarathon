@@ -39,3 +39,9 @@
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day017_HW.ipynb">Day017 HW</a>
 ##### D18：瀏覽器開發者工具介紹
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day018_HW.ipynb">Day018 HW</a>
+##### D19：動態網頁爬蟲 - 使用Selenium + BeautifulSoup 模擬瀏覽器執行
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day019_HW.ipynb">Day019 HW</a>
+##### D20：動態網頁爬蟲 - 利用開發者工具，觀察模擬 API 存取
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day020_HW.ipynb">Day020 HW</a>
+##### D21：實作 Day：ETTODAY 動態爬蟲實作練習
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day021_HW.ipynb">Day021 HW</a>
