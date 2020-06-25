@@ -37,3 +37,5 @@
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day016_HW.ipynb">Day016 HW</a>
 ##### D17：HTTP 動態網頁架構說明與非同步取得資料
 - <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day017_HW.ipynb">Day017 HW</a>
+##### D18：瀏覽器開發者工具介紹
+- <a href="https://github.com/DunkLiao/PyCrawlerMarathon/blob/master/homework/Day018_HW.ipynb">Day018 HW</a>
